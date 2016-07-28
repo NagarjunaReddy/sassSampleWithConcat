@@ -1,0 +1,3 @@
+function doclick(){
+  alert('title');
+}
